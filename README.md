@@ -1,16 +1,12 @@
 # calculator_app
 
-A new Flutter application.
+A Simple Calculator Application in Flutter.
 
-## Getting Started
+This project uses <a href="https://pub.dev/packages/math_expressions">math_expressions</a> Package from <a href="https://pub.dev">pub.dev</a>
+<h2>math_expressions</h2> 
+A library for parsing and evaluating mathematical expressions.
 
-This project is a starting point for a Flutter application.
+## Some Screen Shots:
+![image](https://user-images.githubusercontent.com/80347492/143021515-13f3c5ed-7768-4371-a832-43433d95c6fd.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
