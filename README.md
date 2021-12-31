@@ -10,7 +10,7 @@ A library for parsing and evaluating mathematical expressions.
 ## Some Screen Shots:
 ![image](https://user-images.githubusercontent.com/80347492/143021774-c07c55a4-af63-4efc-a99e-3ded9b531a5d.png)
 
-https://user-images.githubusercontent.com/80347492/147833583-84858eb7-1da4-4e08-92a0-8dac79f9f0b1.mp4
+
 
 
 
