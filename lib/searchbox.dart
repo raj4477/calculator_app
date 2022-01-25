@@ -21,9 +21,9 @@ List<model> Items = [
 
 List<model> filteredItem = [];   /// List of item to be filtered after searching
 
-   void main() {
-    runApp(SearchBoxPage());
-  }
+  //  void main() {
+  //   runApp(SearchBoxPage());
+  // }
 
 class SearchBoxPage extends StatelessWidget {
   @override
