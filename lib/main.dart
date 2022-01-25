@@ -1,8 +1,10 @@
+import 'package:calculator_app/searchbox.dart';
 import 'package:flutter/material.dart';
 import 'package:math_expressions/math_expressions.dart';
 
 void main(){
-  runApp(Calculator());
+  // runApp(Calculator());
+  runApp(SearchBoxPage());
 }
 
 class Calculator extends StatelessWidget {
